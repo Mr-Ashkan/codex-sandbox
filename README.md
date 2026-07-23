@@ -1,11 +1,17 @@
-# Codex Sandbox
+# AI Agent Sandbox
 
-A small public sandbox for testing Git, GitHub, and Codex workflows.
+A public lab for prototyping AI agents, tool-using workflows, and automation with Codex.
 
-## Purpose
+## Experiments
 
-- Try repository changes before using them in real projects
-- Test branches, commits, pull requests, and automation
-- Keep experiments separate from production repositories
+- Agent and multi-agent architectures
+- Tool use, MCP servers, and API integrations
+- Prompt, context, and memory design
+- Evaluation, reliability, and guardrails
+- GitHub and development workflow automation
 
-> Nothing here should be treated as production code.
+## Goal
+
+Turn promising experiments into focused, well-documented projects.
+
+> Experimental work lives here before it becomes production-ready.
